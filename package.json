@@ -73,13 +73,14 @@
     "samsam": "^1.1.3"
   },
   "files": [
-    "lib",
-    "pkg",
     "AUTHORS",
     "CONTRIBUTING.md",
     "History.md",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "lib",
+    "pkg",
+    "scripts/support-sinon.js"
   ],
   "main": "./lib/sinon.js",
   "cdn": "./pkg/sinon.js",
